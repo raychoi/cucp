@@ -14,12 +14,12 @@ if (Posts.find().count() === 0) {
       photo: '',
       video: 'https://youtu.be/HqftvfPp59A',
       sound: '',
-      owner: '',
+      owner: 'user001',
       deleted: 'F',
-      createUser: '',
-      editUser: '',
-      createDateTime: '',
-      editDateTime: ''
+      createUser: 'hu6RRqkKFf2aKLEyy',
+      editUser: 'hu6RRqkKFf2aKLEyy',
+      createDateTime: new Date(),
+      editDateTime: new Date()
   });
 
   Posts.insert({
@@ -37,12 +37,12 @@ if (Posts.find().count() === 0) {
       photo: '',
       video: 'https://youtu.be/ueW71rSmSAU',
       sound: '',
-      owner: '',
+      owner: 'user001',
       deleted: 'F',
-      createUser: '',
-      editUser: '',
-      createDateTime: '',
-      editDateTime: ''
+      createUser: 'hu6RRqkKFf2aKLEyy',
+      editUser: 'hu6RRqkKFf2aKLEyy',
+      createDateTime: new Date(),
+      editDateTime: new Date()
   });
 
   Posts.insert({
@@ -60,11 +60,11 @@ if (Posts.find().count() === 0) {
       photo: '',
       video: 'https://youtu.be/uJ0MMDI7HgY',
       sound: '',
-      owner: '',
+      owner: 'user001',
       deleted: 'F',
-      createUser: '',
-      editUser: '',
-      createDateTime: '',
-      editDateTime: ''
+      createUser: 'hu6RRqkKFf2aKLEyy',
+      editUser: 'hu6RRqkKFf2aKLEyy',
+      createDateTime: new Date(),
+      editDateTime: new Date()
   });
 }
